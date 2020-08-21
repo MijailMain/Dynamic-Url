@@ -1,0 +1,67 @@
+[
+	{
+		"id": 5174095,
+		"name": "Toronto",
+		"state": "OH",
+		"country": "US",
+		"coord": {
+			"lon": -80.600906,
+			"lat": 40.46423
+	},	
+	{
+		"id": 2988507,
+		"name": "Paris",
+		"state": "",
+		"country": "FR",
+		"coord": {
+			"lon": 2.3488,
+			"lat": 48.853409
+	},
+	{
+		"id": 4350049,
+		"name": "California",
+		"state": "MD",
+		"country": "US",
+		"coord": {
+			"lon": -76.507446,
+			"lat": 38.3004
+	},
+	{
+        "id": 5128638,
+        "name": "New York",
+        "state": "NY",
+        "country": "US",
+        "coord": {
+            "lon": -75.499901,
+            "lat": 43.000351
+    },
+	{
+        "id": 3652350,
+        "name": "Riobamba",
+        "state": "",
+        "country": "EC",
+        "coord": {
+            "lon": -78.633331,
+            "lat": -1.66667
+       
+    },
+    {
+        "id": 3652462,
+        "name": "Quito",
+        "state": "",
+        "country": "EC",
+        "coord": {
+            "lon": -78.524948,
+            "lat": -0.22985
+    },
+	{
+        "id": 1850147,
+        "name": "Tokyo",
+        "state": "",
+        "country": "JP",
+        "coord": {
+            "lon": 139.691711,
+            "lat": 35.689499
+    }
+
+]

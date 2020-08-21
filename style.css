@@ -1,0 +1,47 @@
+body, html {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .bg {
+    /* The image used */
+    background-image: url("./Img/background.jpg");
+
+    background-color: rgb(36, 112, 112);
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .Titulo1 {
+  color: rgb(4, 100, 107);
+  margin-top: 10px;
+  }
+  .Titulo2 {
+  
+  margin-top: 25%;
+  text-align: center;
+  }
+  .boxmain {
+  color: lightyellow;
+  background-color: rgb(36, 112, 112);
+  width: 80%;
+  height: 340px;
+  margin: 5%;
+  border-radius: 20px 20px 20px 20px;
+  padding: 8px;
+  padding-left: 10px;
+  }
+  .boximagen {
+  color: lightyellow;
+  width: 90%;
+  height: 100px;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  margin: auto;
+  text-align: center;
+  }
